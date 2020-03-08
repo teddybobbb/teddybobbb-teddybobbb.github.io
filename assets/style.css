@@ -1,0 +1,12 @@
+*{
+  font: 15px arial, sans-serif;
+}
+#landing{
+  background-color:grey;
+}
+#question-form{
+  background-color:darkgrey;
+}
+#completed{
+  background-color:dimgray;
+}

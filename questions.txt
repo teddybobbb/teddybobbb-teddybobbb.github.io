@@ -1,0 +1,34 @@
+1."This album's legendary cover features The Clash bassist Paul Simonon smashing his bass guitar at a show. What is the title of this album?"
+a.'The Clash'
+b.'London Calling'
+c.'Combat Rock'
+d.'Sandinista!'
+answer:london calling
+
+2.'When Minor Threat broke up for the first time (in late 1981), Ian Mackaye started singing with this short-lived band'
+a."Teen Idles"
+b."Rites of Spring"
+c."Embrace"
+d.Skewbald"
+answer:skewbald
+
+3."Which US punk band feature in Cheech and Chong's film 'Up In Smoke' in a battle of the bands contest? "
+a."Youth Of Today"
+b."Minor Threat"
+c."The Avengers"
+d."The Dils"
+answer: the dils
+
+4.To begin at the beginning: which single, released in October 1976, is usually quoted as the first British punk record?
+a.Anarchy in the UK - Sex Pistols
+b.'New Rose - The Damned'
+c.'Hong Kong Garden - Siouxsie and the Banshees'
+d.'Spiral Scratch EP - Buzzcocks'
+answer: new rose- the damned
+
+5.'Which one of these punk rock icons was born James Newell Osterberg Jr?'
+a."Lou Reed"
+b."Mike Watt"
+c."Joey Ramone"
+d."Iggy Pop"
+answer: iggy pop
