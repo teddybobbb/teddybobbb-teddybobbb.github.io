@@ -14,30 +14,48 @@
   <section id ="question-form">
     <p>current question: 1</p>
     <p>score:0</p>
-     <form id="form-question">
-    <h1>
-   To begin at the beginning: which single, released in October 1976, is usually quoted as the first British punk record?
-    </h1>
-    <fieldset id="answer">
-     <label class="answerOption">
-      <input type="radio" value="'Anarchy in the UK - Sex Pistols'" name="answer" required="">
-      <span>Anarchy in the UK - Sex Pistols</span>
+    <form id="form-question">
+      <h1>
+       To begin at the beginning: which single, released in October 1976, is usually quoted as the first British punk record?
+     </h1>
+     <fieldset id="answer">
+       <label class="answerOption">
+        <input type="radio" value="'Anarchy in the UK - Sex Pistols'" name="answer" required="">
+        <span>Anarchy in the UK - Sex Pistols</span>
       </label>
+      <br/>
       <label class="answerOption">
-      <input type="radio" value="'New Rose - The Damned'" name="answer" required="">
-      <span>'New Rose - The Damned'</span>
+        <input type="radio" value="'New Rose - The Damned'" name="answer" required="">
+        <span>'New Rose - The Damned'</span>
       </label>
+      <br/>
       <label class="answerOption">
-      <input type="radio" value="'Hong Kong Garden - Siouxsie and the Banshees'" name="answer" required="">
-      <span>'Hong Kong Garden - Siouxsie and the Banshees'</span>
+        <input type="radio" value="'Hong Kong Garden - Siouxsie and the Banshees'" name="answer" required="">
+        <span>'Hong Kong Garden - Siouxsie and the Banshees'</span>
       </label>
+      <br/>
       <label class="answerOption">
-      <input type="radio" value="'Spiral Scratch EP - Buzzcocks'" name="answer" required="">
-      <span>'Spiral Scratch EP - Buzzcocks'</span>
+        <input type="radio" value="'Spiral Scratch EP - Buzzcocks'" name="answer" required="">
+        <span>'Spiral Scratch EP - Buzzcocks'</span>
       </label>
-      <button type="submit">submit</button>
-      </fieldset>
-</form>
+      <br/>
+      <button type="submit" id="submit-answer">submit</button>
+    </fieldset>
+  </form>
+</section>
+<section id="answer-correct">
+  <p>current question:1</p>
+  <p>score:1</p>
+  <h2>Correct!</h2>
+  <p> you got that one right. good job. </p>
+  <button type ="submit">next question</button>
+  </section>
+  <section id="answer-incorrect">
+  <p>current question:1</p>
+  <p>score:0</p>
+  <h2>wrong!</h2>
+  <p>sorry, you got that one wrong. the correct answer was B. </p>
+  <button type ="submit">next question</button>
   </section>
   <section id ="completed">
     <h2>congrats! you passed!</h2>
